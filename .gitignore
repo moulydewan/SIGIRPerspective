@@ -16,14 +16,6 @@ logs/
 outputs/
 results/
 
-# Data and intermediate files
-data/
-datasets/
-*.csv
-*.jsonl
-*.parquet
-*.pkl
-
 # Notebooks checkpoints
 .ipynb_checkpoints/
 
